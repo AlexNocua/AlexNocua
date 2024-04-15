@@ -19,7 +19,14 @@
 
 ## Mais informações:
 
-![Foto de perfil](https://alexnocua.netlify.app/IMG/yo3.jpg)
+<div style='display:flex; justify-content:center;align-items:center'>
+<div>
+<a href="https://alexnocua.netlify.app/IMG/yo3.jpg">
+  <img src="https://alexnocua.netlify.app/IMG/yo3.jpg" alt="Foto de perfil" style="width: 400px; height: auto;">
+</a>
+</div>
+  <center>
+    <div style='text-align: left;padding: 16px; margin: 0 auto;display:flex;flex-direction:row;justify-content:center'>
 
 **Idade:** 21 anos.
 
@@ -32,6 +39,12 @@
 **Pontos fortes e habilidades:** Trabalho em equipe, adaptabilidade, resolução de problemas, persuasão, criatividade e pensamento analítico.
 
 [🔍 My site](https://alexnocua.netlify.app/)
+  </center>
+
+</div>
+</div>
+
+
 
 ## Informação do meu GitHub
 
@@ -48,6 +61,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+
+
 <!--
 **AlexNocua/AlexNocua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
